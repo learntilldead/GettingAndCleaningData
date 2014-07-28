@@ -1,7 +1,7 @@
 GettingAndCleaningData
 ======================
 
-This repository contains a R script that performs a basic statistical analysis on the data set from the collected from the accelerometers from the Samsung Galaxy S smartphone.
+This repository contains a R script that performs a basic statistical analysis on the data set collected from the accelerometers from the Samsung Galaxy S smartphone.
 
 The data set is in the "UCI HAR Dataset".
 
